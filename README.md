@@ -15,6 +15,8 @@ b站视频链接：[https://www.bilibili.com/video/BV1rh411z7te/](https://www.bi
 
 ## 2021年信创展
 
+我们在2021年信创人才培养论坛活动展会上展示我们的智能车系统
+
 <img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/fa2340201c2444f1a4377c4fef036209129c6607f7d546d18e77dbb6e4cff008" width = "100%" height = "100%" />
 
 # 二、决策数据采集
@@ -209,3 +211,11 @@ image = carmer.read() # 获取摄像头的输出
 angle = cruiser.cruise(front_image) # 获取当前状态下的动作（直走or转弯）
 cart.steer(angle) # 根据上一步的结果使小车做出相应的动作
 ```
+
+# 总结与升华
+
+我们基于模仿学习里的行为克隆方法使智能车系统自主完成车道线巡航任务，通过大量实验以及比赛现场的发挥，我们在第十六届全国大学生智能车竞赛区赛中排第18名（一共81支参赛队伍），并且在全国总决赛中获二等奖。
+
+更多关于本项目的相关报道：
+- [请党放心，强国有我！——机器人学院代表学校参加世界机器人大赛再传佳音](https://mp.weixin.qq.com/s/AO1bU8cJhsqZYe4B2LC3ng)
+- [喜报：机器人学院第一学生党支部党员多人获得科技竞赛大奖](https://mp.weixin.qq.com/s/YjKNswLuX34pvrgmyEmKkQ)
